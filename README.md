@@ -5,15 +5,15 @@
 
 <!-- social media section -->
 <h4>Let's connect</h4>
-        <a href="https://www.linkedin.com/in/mawy7/"><img src="https://img.shields.io/badge/-Mannie%20Young%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/mawy7/" alt="LinkedIn Badge"></a> 
-        <a href="mailto:mannie@pythonghana.org"><img src="https://img.shields.io/badge/-Via mail-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:mannie@pythonghana.org" alt="Gmail Badge"></a>
-        <a href="https://twitter.com/mawy_7?ref_src=twsrc%5Etfw"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/mawy_7?style=social"></a>
+        <a href="https://www.linkedin.com/in/mawy7/" target="/"><img src="https://img.shields.io/badge/-Mannie%20Young%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/mawy7/" alt="LinkedIn Badge"></a> 
+        <a href="mailto:mannie@pythonghana.org" target="/"><img src="https://img.shields.io/badge/-Via mail-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:mannie@pythonghana.org" alt="Gmail Badge"></a>
+        <a href="https://twitter.com/mawy_7?ref_src=twsrc%5Etfw" target="/"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/mawy_7?style=social"></a>
 <!-- social media section: END -->
  
   <br />
   <br />
 
- > Feel free to reach out; it would be wonderful to hear from you, and perhaps we can establish some cordial relationships on a professional or even personal front. <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "14" height= "14">
+ > Feel free to reach out; it would be wonderful to hear from you, and perhaps we can establish some cordial relationships on a professional or even personal front. <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "16" height= "16">
 
    
 
