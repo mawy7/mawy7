@@ -24,7 +24,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mawy7&theme=tokyonight" alt="mystreak"/>
 ![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mawy7&theme=tokyonight&layout=compact)
  
-<img src="https://komarev.com/ghpvc/?username=mawy7&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+<img src="https://komarev.com/ghpvc/?username=mawy7&label=Profile views&color=red&style=flat-square" alt="views on github" />
 
 <!--
 **mawy7/mawy7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
