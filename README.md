@@ -1,4 +1,6 @@
-<div align="center">
+<div align="center"> 
+<img src ="https://res.cloudinary.com/mawy7/image/upload/v1602095606/logo_cz8kjm.png"  height= "60" /> 
+<br />
 <br />
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=16&pause=1000&color=F71B18&center=true&width=435&lines=Hello+World%2C+you+are+welcome+to+my+GitHub+profile%F0%9F%98%8A;I'm+Mannie+W.+Young+(aka+-+mawy7);%F0%9F%95%B4%F0%9F%8F%BDTechpreneur+.+.+.;%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB+Software+Developer+.+.+.;%F0%9F%8C%8D%E2%9D%A4%EF%B8%8F%F0%9F%90%8D%F0%9F%8C%8E+Community+Builder;and+more+%F0%9F%98%8E" alt="Typing SVG" /></a>
 <br />
