@@ -8,7 +8,7 @@
 <!-- social media section -->
 <h4>Let's connect</h4>
         <a href="https://www.linkedin.com/in/mawy7/" target="_blank"><img src="https://img.shields.io/badge/-Mannie%20Young%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/mawy7/" alt="LinkedIn Badge"></a> 
-        <a href="mailto:mannie@pythonghana.org" target="_blank"><img src="https://img.shields.io/badge/-Via mail-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:mannie@pythonghana.org" alt="Gmail Badge"></a>
+        <a href="mailto:hi@mannieyoung.com" target="_blank"><img src="https://img.shields.io/badge/-Via mail-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:hi@mannieyoung.com" alt="Gmail Badge"></a>
         <a href="https://twitter.com/mawy_7?ref_src=twsrc%5Etfw" target="_blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/mawy_7?style=social"></a>
 <!-- social media section: END -->
  
@@ -21,12 +21,6 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-#### Some statistics 🚀
-![Mannie's github stats](https://github-readme-stats.vercel.app/api?username=mawy7&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mawy7&theme=tokyonight" alt="mystreak"/>
-![Mannie's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mawy7&theme=tokyonight&layout=compact)
- 
-        
 
         
   
@@ -34,8 +28,6 @@
   <br /> 
   <br />
   <br />
-
-<img src="https://komarev.com/ghpvc/?username=mawy7&label=Profile views&color=red&style=flat-square" alt="views on github" />
 
               
 <!--
